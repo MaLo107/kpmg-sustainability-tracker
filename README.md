@@ -28,7 +28,8 @@ It features CO₂ emissions tracking, leaderboard rankings, office engagement ev
 ---
 
 ## Demo
-
+- I unfortunatey only have the actual demo without any audio or commentary.
+  
 [![Watch the demo](https://img.youtube.com/vi/JG7zdJaoEf0/0.jpg)](https://youtu.be/JG7zdJaoEf0)  
 👉 **[Click here to watch the full project presentation on YouTube](https://youtu.be/JG7zdJaoEf0)**
 
